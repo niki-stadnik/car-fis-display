@@ -32,7 +32,7 @@ New dash hot
 
 Testing phase       Scematic
 
-<img src="pics/20210206_180025.jpg" width="400"> <img src="pics/20210210_014952a.jpg" width="400">
+<img src="pics/20210206_180025.jpg" width="400"> <img src="pics/20210210_014952.jpg" width="400">
 
 
 cluster back        Arduino add board
