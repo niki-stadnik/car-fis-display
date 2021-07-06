@@ -47,7 +47,7 @@ Here the sensors are being calibrated on a small Arduino pro micro. Later switch
 
 
 
-The backside of the instrument cluster and a the board with all the connections for the arduino made as a custom shield.
+The backside of the instrument cluster and a board with all the connections for the arduino, made as a custom shield.
 The warning lights have constant 12v through them and the connection to the ground is controlled by the ECU. So I had to add a small board with a resistor and photocoupler for each of the 6 leds.
 
 <img src="pics/20210304_161419.jpg" width="400"> <img src="pics/20210306_152540.jpg" width="400">
