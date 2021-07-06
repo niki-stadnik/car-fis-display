@@ -17,11 +17,9 @@ todo
 
 ## Pictures
 
-Stock warning lights
-<img src="pics/20210223_124024.jpg" width="1200">
-
-Stock dashboard
-<img src="pics/20200901_143025.jpg" width="1200">
+Stock instrument cluster warning lights
+<img src="pics/20210223_124024.jpg" width="600">
+<img src="pics/20200901_143025.jpg" width="600">
 
 Testing phase
 <img src="pics/20210206_180025.jpg" width="1200">
