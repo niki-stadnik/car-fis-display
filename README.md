@@ -1,19 +1,30 @@
 # Car FIS Display
-Custom car FIS display with sensors on arduino
+I needed a few sensors for diagnostic data on my car, but just adding more gauges clutters the interior and i didn't want that. So when one of my sensors failed, I decided that instead of buying a new one I could build a custom diplay with all the sensors I want for tha same price as the replacement. :P
 
 ## Features
-* Same Warning lights as stock
+* Warning lights
 * Sensors
 * Clock
+* Dimming
 
 ## Warning Lights
-todo
+I didn't want to trade warning lights for sensors plus I wanted to keep the factory design, so for now they are absolutely the same.
 
 ## Sensors
-todo
+I removed the oil pressure gauge and the failed oil temperature gauge, and installed a display with the two sensors mentont plus voltage sensor and water temperature sensor.
+Why water temperature sensor since the factory instrument cluster clearly has one? Because they are made from the factory to show 90°C in the range from 70°C to 120°C as to not stress the average driver, and i wanted an accurate one.
 
 ## Clock
-todo
+I added a clock since the on board computer can show only one reading and i prefer to see the fuel consumption.
+
+## Dimming
+And finally i decided to add dimming, so the display wont blind me when driving at night. The arduino is connected to the car's dimmer circuit, and the display is dimming along with all the other lights on the dashboard.
+
+## Future tasks
+I added a MCP2515 module to the arduino in order to connect to the car's CAN BUS. That should be able to give all the diagnostic data that can be gained with a diagnostic PC.
+
+Adding more sensors.
+
 
 ## Pictures
 
