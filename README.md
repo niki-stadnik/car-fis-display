@@ -28,7 +28,7 @@ Adding more sensors.
 
 ## Pictures
 
-Stock instrument cluster warning lights
+Stock instrument cluster and warning lights
 
 The stock cluster of the mk4 golf i have, has only 6 warning lights at the center, and that is a perfect spot for adding stuff.
 
@@ -36,7 +36,7 @@ The stock cluster of the mk4 golf i have, has only 6 warning lights at the cente
 
 
 
-New instrument cluster warning lights
+New instrument cluster and warning lights
 
 I wanted to keep the factory layout of the warning lights for the time being so i left that part of the display reserved only for them. But in the future that can change.
 
