@@ -15,7 +15,7 @@ I removed the oil pressure gauge and the failed oil temperature gauge, and insta
 Why water temperature sensor since the factory instrument cluster clearly has one? Because they are made from the factory to show 90°C in the range from 70°C to 120°C as to not stress the average driver, and i wanted an accurate one.
 
 ## Clock
-I added a clock since the on board computer can show only one reading and i prefer to see the fuel consumption.
+I added a clock since the on board computer can show only one reading at a time, and I prefer to see the fuel consumption.
 
 ## Dimming
 And finally i decided to add dimming, so the display wont blind me when driving at night. The arduino is connected to the car's dimmer circuit, and the display is dimming along with all the other lights on the dashboard.
