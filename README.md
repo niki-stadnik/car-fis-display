@@ -62,3 +62,8 @@ The backside of the instrument cluster and a board with all the connections for 
 The warning lights have constant 12v through them and the connection to the ground is controlled by the ECU. So I had to add a small board with a resistor and photocoupler for each of the 6 leds.
 
 <img src="pics/20210304_161419.jpg" width="400"> <img src="pics/20210306_152540.jpg" width="400">
+
+## For the project
+I used arduino mega because i needed a lot of io pins. ds3231 rtc module for the clock in order to have an accurate and long lasting clock even in case of flat battery.
+A voltage regulator to drop from 12v to 9v and keep it steady. A nextion display because it has it's own software and therefore is easier to control with arduino.
+And lastly mcp2515 module for CAN BUS expansions.
